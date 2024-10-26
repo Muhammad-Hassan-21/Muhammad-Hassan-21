@@ -44,7 +44,7 @@ I'm excited to dive deeper into JavaScript, advanced MySQL, and project-based le
 
 If you have any tips or resources that could help a beginner like me, feel free to reach out. Let's connect and learn together!
 
-**Email: muhammadhassan2004@outfmail.com**
+**Email: muhammadhassan2004@outgmail.com**
 
 Thank you for visiting! 😊
 
